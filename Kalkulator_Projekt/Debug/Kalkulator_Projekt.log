@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1062,63): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1062,53): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1074,11): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1080,11): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1086,15): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1092,11): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Kalkulator_Projekt\MyForm.h(1097,52): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Algorytmy.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Kalkulator_Projekt.vcxproj -> C:\Users\user\Documents\PK\WDP\Kalkulator\Kalkulator_Projekt\Debug\Kalkulator_Projekt.exe
